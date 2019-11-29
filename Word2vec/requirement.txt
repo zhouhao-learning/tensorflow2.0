@@ -1,0 +1,6 @@
+tensorflow==2.0
+jieba
+numpy
+sklearn
+matplotlib
+scipy
